@@ -19,9 +19,6 @@ Power BI (visualization)
 Evidence suggests Canada's success reflects genuine team improvement both when facing weaker opposition 
 in qualifiers and mid-high level opposition in international friendlies and tournament finals.
 
-## Report
-[Screenshot of Page 1] or [link to published Power BI Service report]
-
 ## Repo Structure
 - /sql — table creation, cleaning, and analysis view scripts
 - /powerbi — the .pbix report file
